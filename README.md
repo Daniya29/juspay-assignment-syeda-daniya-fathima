@@ -3,6 +3,8 @@
 Apple India Store Automation Script
 This project uses Selenium to automate the process of browsing and purchasing EarPods from the Apple India Store. The script navigates to the Apple website, searches for "EarPods," adds them to the cart, proceeds to checkout, and inputs sample user information.
 
+output video link: https://drive.google.com/file/d/1jysRbNS32iPMh0esvFWJqHJVy-ykRs4o/view?usp=sharing
+
 Project Structure
 learnathon.py: Main script file containing the Selenium automation script.
 requirements.txt: File listing all Python dependencies for this project.
